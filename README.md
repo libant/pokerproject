@@ -15,8 +15,8 @@ The repo is structured as:
 -   `bayesian_poker/bayesian_update.py` contains functions to perform Bayesian updating and compute posterior probabilities.
 -   `bayesian_poker/visualization.py` contains tools to visualize posterior distributions.
 -   `bayesian_poker/helper.py` contains helper functions.
+-   `docs` contain documentation.
 -   `tests` contain tests.
-- 
 
 ## Statement on LLM usage
 
