@@ -1,8 +1,8 @@
 import itertools
 import random
 from math import comb
-from hand_types import classify_hand
-from helper import get_deck
+from bayesian_poker.hand_types import classify_hand
+from bayesian_poker.helper import get_deck
 
 def compute_likelihood(partial_cards, hand_type, num_samples=10000):
     """

@@ -1,5 +1,6 @@
 from unittest import TestCase
-from bayesian_update import bayesian_update
+from bayesian_poker.bayesian_update import bayesian_update
+
 
 class TestBayesianUpdate(TestCase):
     def test_bayesian_update_normal(self):

@@ -1,5 +1,5 @@
 from unittest import TestCase
-from bayesian_poker.utils import get_deck, comb
+from bayesian_poker.helper import get_deck, comb
 import math
 
 class TestGetDeck(TestCase):
