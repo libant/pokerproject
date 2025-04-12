@@ -16,6 +16,7 @@ The repo is structured as:
 -   `bayesian_poker/visualization.py` contains tools to visualize posterior distributions.
 -   `bayesian_poker/helper.py` contains helper functions.
 -   `docs` contain documentation.
+-   `notebooks` contains notebooks demonstrating the usage of this project.
 -   `tests` contain tests.
 
 ## Statement on LLM usage
